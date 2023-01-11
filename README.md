@@ -1,4 +1,4 @@
-# exercise 4
+# Exercise 4
 
 ### Level: Senior
 
